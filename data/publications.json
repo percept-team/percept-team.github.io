@@ -1,0 +1,211 @@
+[
+  {
+    "title": "SPOT: Spatiotemporal Prompt Optimization for Motion-Stabilized MLLM-Guided Video Segmentation",
+    "authors": "Jiayi Fan, <strong>Zheyun Qin✉</strong>, Xiaoming Xi, Xiushan Nie, Yilong Yin",
+    "venue": "CVPR 2026",
+    "year": "2026",
+    "highlight": "Poster",
+    "thumbnail": "assets/publications/placeholder/spot.jpg",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Expanding Intra-modal and Compressing Inter-modal Embedding Space for Incomplete Multimodal Emotion Recognition",
+    "authors": "Zhibin Wu, Wenhao Li, Zheyun Qin, Qiangchang Wang",
+    "venue": "TCSVT 2026",
+    "year": "2026",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "MCoT-MVS: Multi-level Vision Selection by Multi-modal Chain-of-Thought Reasoning for Composed Image Retrieval",
+    "authors": "Xuri Ge, Chunhao Wang, Xindi Wang, Zheyun Qin, Zhumin Chen, Xin Xin",
+    "venue": "WWW 2026",
+    "year": "2026",
+    "highlight": "Poster",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Fine-Grained Features in Any-Shot Learning: A Survey",
+    "authors": "Qiangchang Wang, Wenhao Li, Jinglin Zhang, Zheyun Qin, Linhao Li",
+    "venue": "TAI 2026",
+    "year": "2026",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Video Instance Segmentation by Weighted Structure Inference",
+    "authors": "<strong>Zheyun Qin</strong>, Deng Yu, Yang Shi, Qiangchang Wang, Zhumin Chen",
+    "venue": "ACM MM 2025",
+    "year": "2025",
+    "highlight": "Poster",
+    "thumbnail": "assets/publications/placeholder/mm25.png",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Sliced Wasserstein Bridge for Open-Vocabulary Video Instance Segmentation",
+    "authors": "<strong>Zheyun Qin</strong>, Deng Yu, Chuanchen Luo, Zhumin Chen",
+    "venue": "ICCV 2025",
+    "year": "2025",
+    "highlight": "Spotlight",
+    "thumbnail": "assets/publications/placeholder/iccv25.png",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "A Hybrid Ball Trajectory Prediction Method AcrossMultiple Ball Sports",
+    "authors": "Zhiwei Shi, Chengxi Zhu, Fan Yang, Zheyun Qin",
+    "venue": "RA-L 2025",
+    "year": "2025",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "A survey on omni-modal language models",
+    "authors": "Lu Chen, Jiajie Mu, Jiarui Wang, Xiao Kang, Xiaoming Xi, <strong>Zheyun Qin✉</strong>",
+    "venue": "AI+ 2025",
+    "year": "2025",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Reformulating Graph Kernels for Self-supervised Space-Time Correspondence Learning",
+    "authors": "<strong>Zheyun Qin</strong>, Xiankai Lu, Dongfang Liu, Xiushan Nie, Yilong Yin, Jianbing Shen, Alexander C. Loui",
+    "venue": "TIP 2023",
+    "year": "2023",
+    "highlight": "",
+    "thumbnail": "assets/publications/placeholder/tip23.png",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Unified 3D Segmenter As Prototypical Classifiers",
+    "authors": "<strong>Zheyun Qin*</strong>, Cheng Han*, Xiankai Lu, Qifan Wang, Xiushan Nie, Yilong Yin",
+    "venue": "NeurIPS 2023",
+    "year": "2023",
+    "highlight": "Poster",
+    "thumbnail": "assets/publications/placeholder/neurips23.png",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Coarse-to-Fine Video Instance Segmentation with Factorized Conditional Appearance Flows",
+    "authors": "<strong>Zheyun Qin</strong>, Xiankai Lu, Xiushan Nie, Dongfang Liu, Yilong Yin, Wenguan Wang",
+    "venue": "JAS 2023",
+    "year": "2023",
+    "highlight": "",
+    "thumbnail": "assets/publications/placeholder/jas23.png",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Exposing the Self-supervised Space-Time Correspondence Learning via Graph Kernels",
+    "authors": "<strong>Zheyun Qin</strong>, Xiankai Lu, Xiushan Nie, Yilong Yin, Jianbing Shen",
+    "venue": "AAAI 2023",
+    "year": "2023",
+    "highlight": "Poster",
+    "thumbnail": "assets/publications/placeholder/aaai23.png",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Learning Hierarchical Embedding for Video Instance Segmentation",
+    "authors": "<strong>Zheyun Qin</strong>, Xiankai Lu, Xiushan Nie, Xiantong Zhen, Yilong Yin",
+    "venue": "ACM MM 2021",
+    "year": "2021",
+    "highlight": "Poster",
+    "thumbnail": "assets/publications/placeholder/mm21.png",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Distribution-Aware Contrastive Learning for Robust Medical Image Segmentation",
+    "authors": "<strong>Zheyun Qin</strong>, Xiaoming Xi, Yilong Yin",
+    "venue": "ICASSP 2024",
+    "year": "2024",
+    "highlight": "Poster",
+    "thumbnail": "assets/publications/placeholder/icassp24.png",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "基于结构关系建模的自监督图表示学习",
+    "authors": "<strong>秦者云</strong>, 卢宪凯, 聂秀山, 尹义龙",
+    "venue": "软件学报",
+    "year": "2025",
+    "highlight": "",
+    "thumbnail": "assets/publications/placeholder/software25.png",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "基于随机游走路径的自监督图拓扑不平衡学习",
+    "authors": "<strong>秦者云</strong>, 卢宪凯，袭肖明，任春晓，聂秀山，尹义龙",
+    "venue": "计算机研究与发展",
+    "year": "2024",
+    "highlight": "",
+    "thumbnail": "assets/publications/placeholder/computer24.png",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Learning Disentangled Representation for Self-supervised Video Object Segmentatio",
+    "authors": "Wenjie Hou, <strong>Zheyun Qin</strong>, Xiaoming Xi, Xiankai Lu, Yilong Yin",
+    "venue": "Neurocomputing 2022",
+    "year": "2022",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "IA-net: Informative Attention Convolutional Neural Network for Choroidal Neovascularization Segmentation in OCT Images",
+    "authors": "Xiaoming Xi, Xianjing Meng, <strong>Zheyun Qin</strong>, Xiushan Nie, Yilong Yin, Xinjian Chen",
+    "venue": "Biomedical Optics Express 2020",
+    "year": "2020",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Difficulty-aware Bi-network with Spatial Attention Constrained Graph for Axillary Lymph Node Segmentation",
+    "authors": "Qing Xu, Xiaoming Xi, Xianjing Meng, <strong>Zheyun Qin</strong>, Xiushan Nie, Yongjian Wu, Dongsheng Zhou, Yi Qu, Chenglong Li, Yilong Yin",
+    "venue": "SCIENCE CHINA Information Sciences 2020",
+    "year": "2020",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  }
+]
